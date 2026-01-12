@@ -8,27 +8,27 @@
         <version>4.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>Client</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>Client</name>
-    <description>Client</description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
+    <groupId>maslyak</groupId>
+    <artifactId>Customary</artifactId>
+    <version>demo</version>
+    <name>Customary</name>
+    <description>Customary</description>
+
     <properties>
         <java.version>17</java.version>
     </properties>
+
+    <url>https://github.com/MrMaslyak/CUMA</url>
+
+    <developers>
+        <developer>
+            <id>Maslyak</id>
+            <name>Maslyak Ilya</name>
+            <email>maslanyjila@gmail.com</email>
+            <url>https://github.com/MrMaslyak</url>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
